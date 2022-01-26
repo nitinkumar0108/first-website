@@ -5,7 +5,7 @@ A complete ecommerce  static website,.
 #First project is completed by me itself may be it has some bugg if you found saomething please let me know in the comment
 #We can use a route to get how to manage database at frontend.
 # Required Libreries to be imported
-<!-- from xml.dom.domreg import registered
-from flask import Flask,render_template,request,url_for
-import sqlite3 as sql
-import os -->
+#from xml.dom.domreg import registered
+#from flask import Flask,render_template,request,url_for
+#import sqlite3 as sql
+#import os
